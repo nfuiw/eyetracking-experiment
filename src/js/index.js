@@ -3,7 +3,7 @@ import EasySeeSo from "seeso/easy-seeso";
 import { showGaze } from "./showGaze";
 import * as XLSX from "xlsx";
 
-const licenseKey = "dev_gu33arplo42nwfge6fngdo07kqjbbv7kacnnjuax";
+const licenseKey = "your key";
 const options = {
   timeZone: "Asia/Seoul",
   year: "numeric",
